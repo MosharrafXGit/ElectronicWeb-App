@@ -1,3 +1,4 @@
 # Electronic-Store
 This is my Java Backed Application using SpringBoot.
-Author - Syed Mosharraf Imam
+<br>
+Author - Syed Mosharraf Imam Java Backend
